@@ -39,7 +39,7 @@ healthy_care_file_path = "/Users/songjian/Python_workspace/log/healthy care/"
 
 def download(url, outfile):
     """
-    下载对应的`url`至`outfile`中。
+    download 'url' to 'outfile'.
     :param url:
     :param outfile:
     :return:
