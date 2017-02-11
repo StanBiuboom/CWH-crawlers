@@ -32,9 +32,9 @@ URL_BASE_SWISSE = 'http://www.chemistwarehouse.com.au/Shop-Online/587/Swisse'
 URL_BASE_BLACKMORES = 'http://www.chemistwarehouse.com.au/Shop-Online/513/Blackmores'
 URL_BASE_HEALTHY_CARE = 'http://www.chemistwarehouse.com.au/search?searchtext=healthy%20care&searchmode=allwords'
 
-swisse_file_path = "/Users/songjian/Python_workspace/log/swisse/"
-blackmores_file_path = "/Users/songjian/Python_workspace/log/blackmores/"
-healthy_care_file_path = "/Users/songjian/Python_workspace/log/healthy care/"
+swisse_file_path = "./log/swisse/"
+blackmores_file_path = "./log/blackmores/"
+healthy_care_file_path = "./log/healthy care/"
 
 
 def download(url, outfile):
